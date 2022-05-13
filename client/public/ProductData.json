@@ -1,0 +1,190 @@
+{
+  "TintCase": {
+    "Products": {
+      "TintCase-black": {
+        "id": "TintCase-black",
+        "title": "TintCase™️ Privacy Case (With Warranty) -black",
+        "price": 18.99,
+        "description": "CONCEAL YOUR PRIVACY The TintCase™️ has a tempered and tinted front screen that cannot be viewed from the sides. It's also touch sensitive! The case is also magnetic so it's easy to put your phone in and take it out. \n If you worry people are invading your privacy or personal space, this is for you. This is for\n- School Students\n- Office Workers\n - People out in Public",
+        "sizes": ["S", "M", "L", "XL", "XXl"],
+        "color": "black",
+        "img": "prodimg1.webp",
+        "imgs": [
+          "prodimg1.webp",
+          "prodimg2.webp",
+          "prodimg3.webp",
+          "prodimg4.webp",
+          "prodimg5.webp",
+          "prodimg6.webp"
+        ]
+      },
+      "TintCase-red": {
+        "id": "TintCase-red",
+        "title": "TintCase™️ Privacy Case (With Warranty) -red",
+        "price": 12.99,
+        "description": "CONCEAL YOUR PRIVACY The TintCase™️ has a tempered and tinted front screen that cannot be viewed from the sides. It's also touch sensitive! The case is also magnetic so it's easy to put your phone in and take it out. \n If you worry people are invading your privacy or personal space, this is for you. This is for\n- School Students\n- Office Workers\n - People out in Public",
+        "sizes": ["S", "M", "L", "XL", "XXl"],
+        "color": "red",
+        "img": "prodimg2.webp",
+        "imgs": [
+          "prodimg1.webp",
+          "prodimg2.webp",
+          "prodimg3.webp",
+          "prodimg4.webp",
+          "prodimg5.webp",
+          "prodimg6.webp"
+        ]
+      },
+      "TintCase-blue": {
+        "id": "TintCase-blue",
+        "title": "TintCase™️ Privacy Case (With Warranty) -blue",
+        "price": 18.99,
+        "description": "CONCEAL YOUR PRIVACY The TintCase™️ has a tempered and tinted front screen that cannot be viewed from the sides. It's also touch sensitive! The case is also magnetic so it's easy to put your phone in and take it out. \n If you worry people are invading your privacy or personal space, this is for you. This is for\n- School Students\n- Office Workers\n - People out in Public",
+        "sizes": ["S", "M", "L", "XL", "XXl"],
+        "color": "blue",
+        "img": "prodimg3.webp",
+        "imgs": [
+          "prodimg1.webp",
+          "prodimg2.webp",
+          "prodimg3.webp",
+          "prodimg4.webp",
+          "prodimg5.webp",
+          "prodimg6.webp"
+        ]
+      },
+      "TintCase-green": {
+        "id": "TintCase-green",
+        "title": "TintCase™️ Privacy Case (With Warranty) -green",
+        "price": 16.99,
+        "description": "CONCEAL YOUR PRIVACY The TintCase™️ has a tempered and tinted front screen that cannot be viewed from the sides. It's also touch sensitive! The case is also magnetic so it's easy to put your phone in and take it out. \n If you worry people are invading your privacy or personal space, this is for you. This is for\n- School Students\n- Office Workers\n - People out in Public",
+        "sizes": ["S", "M", "L", "XL", "XXl"],
+        "color": "green",
+        "img": "prodimg4.webp",
+        "imgs": [
+          "prodimg1.webp",
+          "prodimg2.webp",
+          "prodimg3.webp",
+          "prodimg4.webp",
+          "prodimg5.webp",
+          "prodimg6.webp"
+        ]
+      },
+      "TintCase-grey": {
+        "id": "TintCase-grey",
+        "title": "TintCase™️ Privacy Case (With Warranty) -grey",
+        "price": 17.99,
+        "description": "CONCEAL YOUR PRIVACY The TintCase™️ has a tempered and tinted front screen that cannot be viewed from the sides. It's also touch sensitive! The case is also magnetic so it's easy to put your phone in and take it out. \n If you worry people are invading your privacy or personal space, this is for you. This is for\n- School Students\n- Office Workers\n - People out in Public",
+        "sizes": ["S", "M", "L", "XL", "XXl"],
+        "color": "grey",
+        "img": "prodimg5.webp",
+        "imgs": [
+          "prodimg1.webp",
+          "prodimg2.webp",
+          "prodimg3.webp",
+          "prodimg4.webp",
+          "prodimg5.webp",
+          "prodimg6.webp"
+        ]
+      },
+      "TintCase-gold": {
+        "id": "TintCase-gold",
+        "title": "TintCase™️ Privacy Case (With Warranty) -gold",
+        "price": 20.99,
+        "description": "CONCEAL YOUR PRIVACY The TintCase™️ has a tempered and tinted front screen that cannot be viewed from the sides. It's also touch sensitive! The case is also magnetic so it's easy to put your phone in and take it out. \n If you worry people are invading your privacy or personal space, this is for you. This is for\n- School Students\n- Office Workers\n - People out in Public",
+        "sizes": ["S", "M", "L", "XL", "XXl"],
+        "color": "gold",
+        "img": "prodimg6.webp",
+        "imgs": [
+          "prodimg1.webp",
+          "prodimg2.webp",
+          "prodimg3.webp",
+          "prodimg4.webp",
+          "prodimg5.webp",
+          "prodimg6.webp"
+        ]
+      }
+    },
+    "Reviews": [
+      {
+        "stars": 5,
+        "title": "Would Recommend",
+        "body": "Order was sent out very quickly and arrived in great condition! It feels super nice and low profile on my phone which I like. Case is also magnetic and you can't see the screen from the sides just like the Tiktok video",
+        "satisfaction": 60,
+        "delivery": 82,
+        "value": 100,
+        "name": "Jonny Putnam",
+        "date": "May 05, 2022"
+      },
+      {
+        "stars": 4.55,
+        "title": "Awesome Product!",
+        "body": "i have a little trouble because sometimes i dont put much pressure on the screen and it doesnt register but other than that the case is really good i like it",
+        "satisfaction": 82,
+        "delivery": 95,
+        "value": 55,
+        "name": "lopez",
+        "date": "March 02, 2022"
+      },
+      {
+        "stars": 4.3,
+        "title": "VERY GOOD VERY NICE",
+        "body": "Bought a couple for the fam, they all loved them and thought they were pretty cool. That would be cool if yall come out with more colors.",
+        "satisfaction": 83,
+        "delivery": 100,
+        "value": 90,
+        "name": "Larry Nitzsche",
+        "date": "Nov 26, 2021"
+      },
+      {
+        "stars": 3,
+        "title": "Worth the money",
+        "body": "Arrived packaged well and is just like the tiktk videos, didn't think the quality would be as good as it is.",
+        "satisfaction": 80,
+        "delivery": 100,
+        "value": 75,
+        "name": "Arnaldo O'Hara",
+        "date": "Dec 23, 2021"
+      },
+      {
+        "stars": 2,
+        "title": "Feels Cheap",
+        "body": "I like it very much! Just like the vids on tiktok!",
+        "satisfaction": 54,
+        "delivery": 40,
+        "value": 30,
+        "name": "Colin Schaden",
+        "date": "Dec 20, 2021"
+      },
+      {
+        "stars": 5,
+        "title": "I love it!",
+        "body": "Well packed in great condition, if u have an iPhone and have problems with taking it out a phone case, this one will solve those problems because it's magnetic!",
+        "satisfaction": 90,
+        "delivery": 81,
+        "value": 85,
+        "name": "Margarita Koelpin",
+        "date": "April 04, 2022"
+      },
+      {
+        "stars": 5,
+        "title": "This Case Slaps!",
+        "body": "That's the second time I 've bought. I recommend it 100%. I work in a confined space with alot of people so it eases me up abit.",
+        "satisfaction": 55,
+        "delivery": 60,
+        "value": 85,
+        "name": "Elliott Lueilwitz",
+        "date": "Jan 21, 2021"
+      },
+      {
+        "stars": 5,
+        "title": "I Ordered 10!",
+        "body": "I like it very much",
+        "satisfaction": 84,
+        "delivery": 100,
+        "value": 87,
+        "name": "Brandi Kulas",
+        "date": "April 22, 2022"
+      }
+    ]
+  }
+}
