@@ -42,7 +42,7 @@ const Header = () => {
     <>
       <Cart />
       <Signin />
-      <div id="hamburgerMenu" className="absolute z-40 xl:hidden">
+      <div id="hamburgerMenu" className="absolute z-40 xl:hidden ">
         <button
           onClick={hamburgerClick}
           className="fixed p-3 my-auto -translate-y-full bg-white border-2 border-black rounded-full h-fit top-90 left-2"
@@ -84,13 +84,7 @@ const Header = () => {
           </div>
         </div>
       </div>
-      <div className="sticky z-30 w-full py-4 overflow-hidden bg-black -top-1">
-        {/* <div className="w-full h-10 bg-slate-400">
-          <h1 className="py-1 mx-auto text-2xl text-center text-black">
-            Free Shipping!
-          </h1>
-        </div> */}
-
+      <div className="sticky z-30 w-full py-4 overflow-hidden bg-black -top-1 b-r">
         <div className="items-center justify-between w-full mx-auto headerGrid md:flex md:flex-row md:w-5/6 h-fit">
           <Navbar />
           <div className="order-1 ">

@@ -1,8 +1,1 @@
-{
-  "Catalog/[Product_id]/[Style].js -> scrollmagic": {
-    "id": "Catalog/[Product_id]/[Style].js -> scrollmagic",
-    "files": [
-      "static/chunks/node_modules_scrollmagic_scrollmagic_uncompressed_ScrollMagic_js.js"
-    ]
-  }
-}
+{}
