@@ -7,10 +7,6 @@ import { moneyFormat } from "../../../Library/Logic";
 import { AiOutlinePlus, AiOutlineMinus } from "react-icons/ai";
 import { BsCart } from "react-icons/bs";
 import Image from "next/image";
-import { Doughnut } from "react-chartjs-2";
-
-// import { parseCookies } from "../Library/parseCookies";
-// import Cookie from "js-cookie";
 
 const OrderSummary = ({ page, dynamicShipping }) => {
   const { cartTotal, items, removeItem } = useCart();
